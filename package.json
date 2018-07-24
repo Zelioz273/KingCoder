@@ -1,0 +1,14 @@
+{
+  "name": "un-named",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "Zelioz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
